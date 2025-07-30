@@ -1,5 +1,6 @@
 Here I am again to try things from the scratch and I think I am making a good progress. This time I started from creating a new directory in git terminal by the command "mk dir folder name" after going to the target
-directory I wanted my new folder to be in. then I used the "cd folder name" to set my new directory as working directory. Then I "git init" to create a new repository. I then had to make atleast one commit before I try
-linking it with my github account. I created one file named README.md, git add'ed it and commit it with the message "initial commit".
-Next is to create a new repository in github and use the option "push existing repository in command line" and follow the instruction in that box to complete this part. finally linked and here I am opening my new repository
+directory where I wanted my new folder to be in. Then I used the "cd folder name" to set my new directory as working directory. Then I "git init" to create a new repository. I then had to make at least one commit before I try
+linking it with my Github account. I created one file named README.md, git add'ed it and commit it with the message "initial commit".
+Next is to create a new repository in Github and use the option "push existing repository in command line" and follow the instruction in that box to complete this part. finally linked and here I am opening my new repository
 from the other side of the door. I will now try to pull this text to my computer through the command line and see my self in the other room.
+It worked!! This is now in my local folder.
