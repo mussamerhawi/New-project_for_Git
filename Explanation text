@@ -8,5 +8,5 @@ from the other side of the door. I will now try to pull this text to my computer
 It worked!! This is now in my local folder.
 
 Now I have created a new branch named "Tinu" (hadisye lol) and switched my working space to it. The changes I am making here are now saved only in this new branch. I will stage 
-and commit these changes along with the new branch to my GitHub account and see them from that side if it goes well. The only command I should not forget is "git pish -u origin
+and commit these changes along with the new branch to my GitHub account and see them from that side if it goes well. The only command I should not forget is "git push -u origin
 <branch name>".
