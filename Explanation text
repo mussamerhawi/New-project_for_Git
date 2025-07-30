@@ -4,3 +4,5 @@ linking it with my Github account. I created one file named README.md, git add'e
 Next is to create a new repository in Github and use the option "push existing repository in command line" and follow the instruction in that box to complete this part. finally linked and here I am opening my new repository
 from the other side of the door. I will now try to pull this text to my computer through the command line and see my self in the other room.
 It worked!! This is now in my local folder.
+
+Now I have created a new branch named "Tinu" (hadisye lol) and switched my working space to it. The changes I am making here are now saved now only in this new branch. I will stage and commit these changes along with the new branch to my GitHub account and see them from that side if it goes well.
