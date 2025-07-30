@@ -11,4 +11,4 @@ Now I have created a new branch named "Tinu" (hadisye lol) and switched my worki
 and commit these changes along with the new branch to my GitHub account and see them from that side if it goes well. The only command I should not forget is "git push -u origin
 <branch name>".
 Finally, creating a new branch in github and pulling it in git. I am writing this text in the new "third branch", so to letter se if this changes are visible from the side of my
-local file.
+local file. The secret here is to first "git fetch" and have a look the existing branches in the remote repository of GitHub. Then "git checkout -b third branch origin/third branch". Now the two branches from local and remote are the same.
